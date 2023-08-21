@@ -1,0 +1,21 @@
+{
+  "name": "masai_hospital_fullstack_app_mock-5",
+  "version": "1.0.0",
+  "description": "The objective is to create a Full Stack application using HTML,CSS and JS as frontend and NEM as backend for a Hospital doctor management app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Rushikesh Diliprao Bhomale",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1"
+  }
+}
